@@ -1,59 +1,9 @@
-# Unidad6
+# Unidad 6
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.3.
+Crear un componte de tipo calculadora, que recoja dos números y pueda hacer operaciones sobre ellos dos (suma, resta y multiplicación) y muestre el resultado en el html.
 
-## Development server
+<img width="747" height="363" alt="Captura de pantalla 2025-07-20 222953" src="https://github.com/user-attachments/assets/a7b769e0-4c5b-4f8e-8648-467ba41eff0d" />
 
-To start a local development server, run:
+Crear un test que revise los valores iniciales de los dos números a operar sean cero y el resultado tambien sea 0 tanto en las variables de la clase como en el html.
 
-```bash
-ng serve
-```
-
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
-
-## Code scaffolding
-
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
-
-```bash
-ng generate component component-name
-```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+<img width="935" height="246" alt="Captura de pantalla 2025-07-20 231635" src="https://github.com/user-attachments/assets/08e3cadd-c7a3-4156-a660-86fb55337a14" />
